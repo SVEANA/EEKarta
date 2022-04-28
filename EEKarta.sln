@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEKarta.Android", "EEKarta\EEKarta.Android\EEKarta.Android.csproj", "{ECBB7157-6C91-4DC6-89BA-8706676412BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEKarta", "EEKarta\EEKarta\EEKarta.csproj", "{AAD4ED8A-39EF-4672-9D1F-94CEF897652F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBB7157-6C91-4DC6-89BA-8706676412BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBB7157-6C91-4DC6-89BA-8706676412BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBB7157-6C91-4DC6-89BA-8706676412BC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ECBB7157-6C91-4DC6-89BA-8706676412BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBB7157-6C91-4DC6-89BA-8706676412BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBB7157-6C91-4DC6-89BA-8706676412BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AAD4ED8A-39EF-4672-9D1F-94CEF897652F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD4ED8A-39EF-4672-9D1F-94CEF897652F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD4ED8A-39EF-4672-9D1F-94CEF897652F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AAD4ED8A-39EF-4672-9D1F-94CEF897652F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD4ED8A-39EF-4672-9D1F-94CEF897652F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD4ED8A-39EF-4672-9D1F-94CEF897652F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B931882A-212A-4429-B8E5-9E34CBFEE4DA}
+	EndGlobalSection
+EndGlobal
